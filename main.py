@@ -57,6 +57,10 @@ class PlaceHolderName:
         """Flash the screen red."""
         pass
 
+    def send_sms(self) -> None:
+        """Send SMS."""
+        pass
+
 
 if __name__ == "__main__":
     pass
